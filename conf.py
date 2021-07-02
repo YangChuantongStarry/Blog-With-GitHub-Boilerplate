@@ -15,14 +15,14 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "yangchuantongstarry/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "YangChuantongStarry/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 
 # 站点设置
 site_name = "杨传桐个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2021-7-2T16:51+08:00"
 author = "杨传桐"
 email = "chuantong_yang@163.com"
 author_homepage = "https://www.imalan.cn"
