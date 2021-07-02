@@ -14,9 +14,10 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "yangchuantongstarry/Blog-With-GitHub-Boilerplate@gh-pages"
 }
+
 
 # 站点设置
 site_name = "杨传桐个人博客"
